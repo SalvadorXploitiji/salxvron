@@ -23,3 +23,11 @@ If a proxy is blocked, it automatically switches to another one to continue the 
 command
 
 ``` node salxvron.js example.com ddos ```
+
+## Run Command
+For update package If it’s already installed, you don’t need to install it again
+```pkg update && pkg upgrade ```
+pkg install git
+pkg install nodejs
+pkg install npm
+git clone https://github.com/SalvadorXploitiji/salxvron
