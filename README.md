@@ -15,5 +15,11 @@ command
 ## DDoS Attack
 
 This feature simulates a stress test on a website to analyze its resistance to high traffic loads.
+
 It sends a large number of requests to the target website using proxy servers.
+
 If a proxy is blocked, it automatically switches to another one to continue the attack.
+
+command
+
+``` node salxvron.js example.com ddos ```
