@@ -9,4 +9,5 @@ It tests various SQL payloads to check if the database returns errors, indicatin
 If the website is found to be vulnerable, it displays a warning message.
 
 command 
+
 ```node salxvron.js https://example.com/product.php?id=1 sqli```
