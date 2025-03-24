@@ -29,7 +29,24 @@ For update package If it’s already installed, you don’t need to install it a
 
 ```pkg update && pkg upgrade ```
 
-pkg install git
-pkg install nodejs
-pkg install npm
+For git installation If it’s already installed, you don’t need to install it again
+
+```pkg install git```
+
+For nodejs installation If it’s already installed, you don’t need to install it again
+
+```pkg install nodejs```
+
+For npm installation If it’s already installed, you don’t need to install it again
+
+```pkg install npm```
+
+Direct to script
+
+```sh
 git clone https://github.com/SalvadorXploitiji/salxvron
+cd salxvron
+unzip salxvron.zip
+node salxvron.js <url> <features>
+```
+
