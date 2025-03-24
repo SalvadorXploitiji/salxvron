@@ -26,7 +26,9 @@ command
 
 ## Run Command
 For update package If it’s already installed, you don’t need to install it again
+
 ```pkg update && pkg upgrade ```
+
 pkg install git
 pkg install nodejs
 pkg install npm
